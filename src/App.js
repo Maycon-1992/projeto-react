@@ -3,9 +3,9 @@ import './App.css';
 
 function App() {
   return (
-  <>
-  <h1>SALVE</h1>
-  <div className="App">
+    <>
+    <h1>FATEC</h1>
+    <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
@@ -21,7 +21,7 @@ function App() {
         </a>
       </header>
     </div>
-  </>
+    </>
   );
 }
 
